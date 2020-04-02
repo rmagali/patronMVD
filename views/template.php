@@ -47,6 +47,8 @@
     <header>
 
         <h1>APRENDIENDO PHP</h1>
+        
+        <h2>Mezcla de php más GIT<h2>
 
     </header>
 
